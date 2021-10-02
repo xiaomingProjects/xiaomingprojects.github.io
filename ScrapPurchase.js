@@ -30,19 +30,19 @@ const ScrapPurchaseList = [
     chinese: {
       title: 'PC机身',
       picUrl: 0,
-      price: '1000元',
+      price: '900元',
       unit: '个'
     },
     japanese: {
       title: 'パソコン本体',
       picUrl: 0,
-      price: '1000円',
+      price: '900円',
       unit: '台'
     },
     english: {
       title: 'PC body',
       picUrl: 0,
-      price: '1000 yen',
+      price: '900 yen',
       unit: 'unit'
     }
   }
